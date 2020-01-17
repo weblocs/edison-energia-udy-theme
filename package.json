@@ -1,0 +1,10 @@
+{
+  "name": "edison-energia-udy-theme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0-beta.1"
+  },
+  "devDependencies": {
+    "date-fns": "2.8.1",
+    "html-minifier": "4.0.0"
+  }
+}
